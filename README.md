@@ -1,4 +1,4 @@
-# Use Eye Gaze to control Mouse Pointer.
+# Use Eye Gaze to Control Mouse Pointer.
 
 The goal of project is to build an application that use human gaze to control mouse movement. In order to achieve that, I need to use 4 prebuilt AI models as listed below:
 
